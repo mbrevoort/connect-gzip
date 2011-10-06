@@ -5,7 +5,7 @@
   "author": "Nate Smith",
   "main": "./index.js",
   "dependencies": {
-    "connect": ">= 1.4.0",
+    "connect": "= 1.7.x",
     "mime": ">= 0.0.1"
   },
   "engines": {
